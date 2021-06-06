@@ -1,0 +1,13 @@
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\bin\Debug\netcoreapp3.1\extension_method.exe
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\bin\Debug\netcoreapp3.1\extension_method.deps.json
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\bin\Debug\netcoreapp3.1\extension_method.runtimeconfig.json
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\bin\Debug\netcoreapp3.1\extension_method.runtimeconfig.dev.json
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\bin\Debug\netcoreapp3.1\extension_method.dll
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\bin\Debug\netcoreapp3.1\extension_method.pdb
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\obj\Debug\netcoreapp3.1\extension_method.csprojAssemblyReference.cache
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\obj\Debug\netcoreapp3.1\extension_method.AssemblyInfoInputs.cache
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\obj\Debug\netcoreapp3.1\extension_method.AssemblyInfo.cs
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\obj\Debug\netcoreapp3.1\extension_method.csproj.CoreCompileInputs.cache
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\obj\Debug\netcoreapp3.1\extension_method.dll
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\obj\Debug\netcoreapp3.1\extension_method.pdb
+C:\Users\sedan\OneDrive\Desktop\kodluyoruz_ödev_1\extension_method\extension_method\obj\Debug\netcoreapp3.1\extension_method.genruntimeconfig.cache
